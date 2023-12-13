@@ -1,0 +1,12 @@
+pip
+jedi
+pylint
+ruff
+pwntools
+requests
+colorama
+pyfiglet
+pycryptodome
+argparse
+name-that-hash
+mitmproxy
